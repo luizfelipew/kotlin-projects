@@ -1,7 +1,6 @@
 package com.wendt.pontointeligente.services
 
 import com.wendt.pontointeligente.documents.Funcionario
-import org.springframework.stereotype.Service
 
 interface FuncionarioService {
 
